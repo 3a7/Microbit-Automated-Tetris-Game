@@ -1,5 +1,5 @@
 # Microbit-Automated-Tetris-Game
-This repository is an Automated Tetris game on Python2 that works on microbit v1.5
+<b>This repository is an Automated Tetris game on Python2 that works on microbit v1.5</b>
 
 To try the script on your microbit device put the code that is in this file: AutomatedTetris_Microbit.py<br>
 on the python microbit page: https://python.microbit.org/v/2<br>
