@@ -111,8 +111,7 @@ while True:
         sleep(1000)
         
         if The_Piece.lost:
-            display.scroll("Game Over: Score: " + str(score)) 
-            #print("Game Over: Score: " + str(score))
+            display.scroll("Game Over: Score: " + str(score))
             score = 0
             break
 
